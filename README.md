@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vincent, I also go by Bast.</h1>
-<h3 align="center">I'm a Program Manager who's trying to transition into tech.</h3>
+<h3 align="center">I'm a versatile IT guy.</h3>
 
 - 🔭 I’m currently working on [Completing Dimensionbeyond.space](https://app.asana.com/read-only/Finish-Github-profile-for-employer-appeal./1206089663387336/2543a084b7a5c04cf978bf046611e06f/timeline)
 
