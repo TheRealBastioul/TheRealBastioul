@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate on [RPG-Project](https://github.com/TheRealBastioul/RPG-Project)
 
-- 🤝 I’m looking for help with [GoogleChat to Discord](https://github.com/TheRealBastioul/RPG-Project)
-
 - 👨‍💻 All of my projects are available at [https://github.com/TheRealBastioul?tab=repositories](https://github.com/TheRealBastioul?tab=repositories)
 
 - 📝 I regularly write articles on [https://dimensionbeyond.space/blog/](https://dimensionbeyond.space/blog/)
