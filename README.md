@@ -16,7 +16,7 @@
 
 
 ---
-**SOC Analyst | Incident Response | IAM | UI/UX Design | Web Developer | System Administrator | Penetration Tester** 
+**SOC Analyst | Incident Response | IAM | UI/UX Design | Web Developer | System Administrator | Penetration Tester | Digital Forensics** 
 
 Building detection tooling, breaking systems in authorized ways, and automating my way out of manual work. **New cybersecurity grad, with systems/IAM experience looking for security roles**.
 
