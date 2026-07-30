@@ -5,7 +5,7 @@
 ██████╔╝███████║███████╗   ██║   
 ██╔══██╗██╔══██║╚════██║   ██║   
 ██████╔╝██║  ██║███████║   ██║   
-╚═════╝ ╚═╝  ╚═╝╚══════╝   ╚═╝  
+╚═════╝ ╚═╝  ╚═╝╚══════╝   ╚═╝
 ```
 
 [![LinkedIn](https://img.shields.io/badge/-linkedIn-0A66C2?logo=data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KDTxnIGlkPSJTVkdSZXBvX2JnQ2FycmllciIgc3Ryb2tlLXdpZHRoPSIwIi8+Cg08ZyBpZD0iU1ZHUmVwb190cmFjZXJDYXJyaWVyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KDTxnIGlkPSJTVkdSZXBvX2ljb25DYXJyaWVyIj4gPHBhdGggZD0iTTE4LjcyIDMuOTk5OTdINS4zN0M1LjE5NzkzIDMuOTkxOTEgNS4wMjU5NSA0LjAxNzg2IDQuODYzOTIgNC4wNzYzNUM0LjcwMTg5IDQuMTM0ODQgNC41NTI5OSA0LjIyNDcxIDQuNDI1NzMgNC4zNDA4MUM0LjI5ODQ4IDQuNDU2OTIgNC4xOTUzNyA0LjU5Njk5IDQuMTIyMzIgNC43NTI5OUM0LjA0OTI3IDQuOTA5IDQuMDA3NyA1LjA3Nzg4IDQgNS4yNDk5N1YxOC42M0M0LjAxMDA4IDE4Ljk5MDEgNC4xNTc2NiAxOS4zMzI4IDQuNDEyNDMgMTkuNTg3NUM0LjY2NzIgMTkuODQyMyA1LjAwOTg0IDE5Ljk4OTkgNS4zNyAyMEgxOC43MkMxOS4wNzAxIDE5Ljk4NDQgMTkuNDAwMiAxOS44MzIyIDE5LjYzOTUgMTkuNTc2MUMxOS44Nzg4IDE5LjMyIDIwLjAwODIgMTguOTgwNCAyMCAxOC42M1Y1LjI0OTk3QzIwLjAwMjkgNS4wODI0NyAxOS45NzE1IDQuOTE2MTYgMTkuOTA3OCA0Ljc2MTIyQzE5Ljg0NDEgNC42MDYyOSAxOS43NDk0IDQuNDY2IDE5LjYyOTUgNC4zNDg5NUMxOS41MDk3IDQuMjMxOTEgMTkuMzY3MiA0LjE0MDU5IDE5LjIxMDggNC4wODA1OEMxOS4wNTQ0IDQuMDIwNTcgMTguODg3NCAzLjk5MzE0IDE4LjcyIDMuOTk5OTdaTTkgMTcuMzRINi42N1YxMC4yMUg5VjE3LjM0Wk03Ljg5IDkuMTI5OTdDNy43Mjc0MSA5LjEzNTY0IDcuNTY1NCA5LjEwNzYyIDcuNDE0MTYgOS4wNDc2OEM3LjI2MjkxIDguOTg3NzQgNy4xMjU2OSA4Ljg5NzE3IDcuMDExMTMgOC43ODE2NkM2Ljg5NjU2IDguNjY2MTUgNi44MDcxMSA4LjUyODIgNi43NDg0MSA4LjM3NjQ3QzYuNjg5NyA4LjIyNDc0IDYuNjYzMDEgOC4wNjI1MSA2LjY3IDcuODk5OTdDNi42NjI4MSA3LjczNTY3IDYuNjkwMDQgNy41NzE2OSA2Ljc0OTk1IDcuNDE4NTRDNi44MDk4NiA3LjI2NTM4IDYuOTAxMTIgNy4xMjY0NCA3LjAxNzg3IDcuMDEwNjNDNy4xMzQ2MyA2Ljg5NDgxIDcuMjc0MyA2LjgwNDY4IDcuNDI3OTMgNi43NDYwMkM3LjU4MTU3IDYuNjg3MzUgNy43NDU3NyA2LjY2MTQ1IDcuOTEgNi42Njk5N0M4LjA3MjU5IDYuNjY0MzEgOC4yMzQ2IDYuNjkyMzIgOC4zODU4NCA2Ljc1MjI2QzguNTM3MDkgNi44MTIyIDguNjc0MzEgNi45MDI3NyA4Ljc4ODg3IDcuMDE4MjhDOC45MDM0NCA3LjEzMzc5IDguOTkyODkgNy4yNzE3NCA5LjA1MTU5IDcuNDIzNDdDOS4xMTAzIDcuNTc1MiA5LjEzNjk5IDcuNzM3NDMgOS4xMyA3Ljg5OTk3QzkuMTM3MTkgOC4wNjQyNyA5LjEwOTk2IDguMjI4MjUgOS4wNTAwNSA4LjM4MTRDOC45OTAxNCA4LjUzNDU2IDguODk4ODggOC42NzM1IDguNzgyMTMgOC43ODkzMUM4LjY2NTM3IDguOTA1MTMgOC41MjU3IDguOTk1MjYgOC4zNzIwNyA5LjA1MzkyQzguMjE4NDMgOS4xMTI1OSA4LjA1NDIzIDkuMTM4NDkgNy44OSA5LjEyOTk3Wk0xNy4zNCAxNy4zNEgxNVYxMy40NEMxNSAxMi41MSAxNC42NyAxMS44NyAxMy44NCAxMS44N0MxMy41ODIyIDExLjg3MjIgMTMuMzMxMyAxMS45NTQxIDEzLjEyMTkgMTIuMTA0NUMxMi45MTI0IDEyLjI1NDkgMTIuNzU0NiAxMi40NjY0IDEyLjY3IDEyLjcxQzEyLjYwNSAxMi44OTI2IDEyLjU3NzggMTMuMDg2NSAxMi41OSAxMy4yOFYxNy4zNEgxMC4yOVYxMC4yMUgxMi41OVYxMS4yMUMxMi43OTQ1IDEwLjgzNDMgMTMuMDk4OCAxMC41MjI1IDEzLjQ2OTQgMTAuMzA4OUMxMy44NCAxMC4wOTU0IDE0LjI2MjQgOS45ODg0OCAxNC42OSA5Ljk5OTk3QzE2LjIgOS45OTk5NyAxNy4zNCAxMSAxNy4zNCAxMy4xM1YxNy4zNFoiIGZpbGw9IiNmZmZmZmYiLz4gPC9nPgoNPC9zdmc+)](https://linkedin.com/in/vincentcherrera)
@@ -35,10 +35,9 @@ Built complete technical infrastructure solo. Salesforce NPSP, Google Workspace,
 ---
 
 <div align="center">
-<div style="display: flex; align-items: center; gap: 8px;" align="center">
-<img src="https://i.postimg.cc/Y2bxHFyq/certificate-svgrepo-com.png" width="33">
-<h2 style="font-weight:bold">Certifications</h2> 
-</div>
+<h3 align="center"><img src="https://i.postimg.cc/Y2bxHFyq/certificate-svgrepo-com.png" width="33">
+<code> CERTIFICATIONS </code> 
+</h3>
 
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia)](https://www.comptia.org/)
 [![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-red?style=for-the-badge&logo=comptia)](https://www.comptia.org/)
@@ -52,10 +51,9 @@ Built complete technical infrastructure solo. Salesforce NPSP, Google Workspace,
 
 ---
 
-<div style="display: flex; align-items: center; gap: 8px; justify-content:center;">
-<img src="https://i.postimg.cc/jSr23gQs/robot-svgrepo-com.png" width="33">
-<h2 style="font-weight:bold">Tech Stack</h2> 
-</div>
+<h3 align="center"><img src="https://i.postimg.cc/jSr23gQs/robot-svgrepo-com.png" width="33">
+<code> TECH STACK </code> 
+</h3>
 
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
 ![Kali Linux](https://img.shields.io/badge/-Kali-000000?style=for-the-badge&logo=kalilinux&logoColor=ffffff)
@@ -84,18 +82,17 @@ Built complete technical infrastructure solo. Salesforce NPSP, Google Workspace,
 
 ---
 
-<div style="display: flex; align-items: center; gap: 8px; justify-content:center;">
-<img src="https://i.postimg.cc/dtJGNjR7/school-svgrepo-com.png" width="33">
-<h2 style="font-weight:bold">Education</h2> 
-</div>
+<h3 align="center"><img src="https://i.postimg.cc/dtJGNjR7/school-svgrepo-com.png" width="33">
+<code> EDUCATION </code> 
+</h3>
 
 <div style="display: flex; align-items: center; gap: 8px;justify-content:center;">
-<span style="font-weight:bold">B.S. Cybersecurity & Information Assurance</span> 
+<b>B.S. Cybersecurity & Information Assurance</b> 
 <img src="https://gw-advance-prod-us-east-1-system.s3.amazonaws.com/uploads/menu_bar/main_logo/612734fbb86cfd72679fe62b/89283bce-9216-48d1-855b-2bdf133cd9e9.png" width="16"> 
 <span>Western Governors University (2026)</span>
 </div>
 <div style="display: flex; align-items: center; gap: 8px;justify-content:center;">
-<span style="font-weight:bold">A.S. Computer Networking</span> 
+<b>A.S. Computer Networking</b> 
 <img src="https://i.postimg.cc/5y3KckQQ/missioncollege.png" width="16"> 
 <span>Mission College (2025)</span>
 </div>
